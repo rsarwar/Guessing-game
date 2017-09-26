@@ -1,5 +1,9 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
+import java.lang.Math;
+/*Ramisha Sarwar
+ * 
+ */
 public class GuessingGame {
 	public static void main (String[] args)
 	{
@@ -24,6 +28,14 @@ public class GuessingGame {
 					Scanner input = new Scanner(System.in);
 					guess = input.nextInt();
 					isNumber = true;
+					if(guess == answer)
+					{
+						System.out.println("That is correct!");
+					}
+					else
+					{
+						System.out.println("That is not correct");
+					}
 				}
 				catch (InputMismatchException e)
 				{
