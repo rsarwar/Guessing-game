@@ -2,7 +2,12 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.lang.Math;
 /*Ramisha Sarwar
+<<<<<<< HEAD
  * fdsghdrtgfsdfsefhdthrtetert
+=======
+ * Guess the number
+ * 9/25/17
+>>>>>>> branch 'master' of https://github.com/rsarwar/Guessing-game.git
  */
 public class GuessingGame {
 	public static void main (String[] args)
