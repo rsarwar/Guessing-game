@@ -2,7 +2,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 import java.lang.Math;
 /*Ramisha Sarwar
- * fdsghdrtgfsdfsef
+ * fdsghdrtgfsdfsefhdthr
  */
 public class GuessingGame {
 	public static void main (String[] args)
